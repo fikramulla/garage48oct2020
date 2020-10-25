@@ -6,3 +6,5 @@
 #work in progress - more stats testing in progress, to test for patterns, before jumping into modeling.
 #hypothesis (current) - i will end up with ~5 usable features for the binary label "threat" 
 #proposed algorithm - state-vector-machine (SVM) - good for binary classifications with multiple inputs, single binary output - going for quality right now, efficiency to be addressed.
+
+#V2 has functional ML SVM model (Number of Support Vectors:  11258), visualizations/user interface pending/w.i.p.
